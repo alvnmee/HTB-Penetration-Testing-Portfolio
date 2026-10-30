@@ -1,15 +1,16 @@
-# Hack The Box - Penetration Testing 
+# Hack The Box - Penetration Testing
 
-A collection of hands-on penetration testing writeups documenting my cybersecurity learning journey through Hack The Box (HTB).
+Kumpulan dokumentasi praktik penetration testing yang berisi writeup dari mesin-mesin Hack The Box (HTB) sebagai bagian dari pembelajaran saya di bidang Cyber Security.
 
-This repository showcases practical experience in reconnaissance, vulnerability identification, exploitation, credential analysis, lateral movement, and Linux privilege escalation.
+Repository ini mendokumentasikan pengalaman praktik dalam melakukan reconnaissance, identifikasi vulnerability, exploitation, analisis kredensial, lateral movement, serta Linux privilege escalation.
 
 ## Machine Writeups
 
-| Machine | Difficulty | Operating System | 
+| Machine | Difficulty | Operating System |
 |---|---|---|
-| Guardian | Hard | Linux | 
-| Codepartwo | Easy | Linux | 
+| Guardian | Hard | Linux |
+| Codepartwo | Easy | Linux |
+
 ## Technical Skills
 
 ### Reconnaissance & Enumeration
@@ -55,15 +56,16 @@ This repository showcases practical experience in reconnaissance, vulnerability 
 
 ## Key Learning Outcomes
 
-Through these machines, I developed practical understanding of:
+Melalui penyelesaian mesin-mesin tersebut, saya memperoleh pemahaman dan pengalaman praktik dalam:
 
-- Identifying security vulnerabilities in web applications.
-- Analyzing application source code and dependencies.
-- Understanding authentication and authorization weaknesses.
-- Exploiting vulnerable components to achieve remote code execution.
-- Discovering and analyzing exposed credentials.
-- Performing password hash cracking.
-- Understanding lateral movement techniques.
-- Exploiting Linux sudo misconfigurations.
-- Performing Linux privilege escalation.
-- Documenting vulnerabilities, their impact, and remediation strategies.
+- Mengidentifikasi vulnerability pada aplikasi web.
+- Menganalisis source code aplikasi dan dependencies.
+- Memahami kelemahan pada mekanisme authentication dan authorization.
+- Melakukan exploitation terhadap komponen yang rentan untuk memperoleh Remote Code Execution.
+- Menemukan dan menganalisis kredensial yang terekspos.
+- Melakukan password hash cracking.
+- Memahami teknik lateral movement.
+- Mengeksploitasi kesalahan konfigurasi Linux sudo.
+- Melakukan Linux privilege escalation.
+- Mendokumentasikan vulnerability, dampaknya, serta strategi remediation.
+
