@@ -34,5 +34,5 @@ A Hack The Box machine writeup documenting web application security assessment, 
 
 ## Full Documentation
 
-[View Guardian Hard Writeup (PDF)](./Guardian-Hard-Writeup.pdf)
+[View Guardian Hard Writeup (PDF)](<Guardian - Hard - Writeup HTB.pdf>)
 
