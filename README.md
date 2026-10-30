@@ -6,11 +6,10 @@ This repository showcases practical experience in reconnaissance, vulnerability 
 
 ## Machine Writeups
 
-| Machine | Difficulty | Operating System | Documentation |
-|---|---|---|---|
-| Guardian | Hard | Linux | [View Writeup](./Guardian/Guardian-Hard-Writeup.pdf) |
-| Codepartwo | Easy | Linux | [View Writeup](./Codepartwo/Codepartwo-Easy-Writeup.pdf) |
-
+| Machine | Difficulty | Operating System | 
+|---|---|---|
+| Guardian | Hard | Linux | 
+| Codepartwo | Easy | Linux | 
 ## Technical Skills
 
 ### Reconnaissance & Enumeration
