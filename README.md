@@ -1,4 +1,4 @@
-# Hack The Box - Penetration Testing Portfolio
+# Hack The Box - Penetration Testing 
 
 A collection of hands-on penetration testing writeups documenting my cybersecurity learning journey through Hack The Box (HTB).
 
